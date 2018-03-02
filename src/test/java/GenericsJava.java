@@ -21,7 +21,7 @@ public class GenericsJava {
 	}
 	public static <T> void printArray(T[] input) {
 		for(T ele:input) {
-			System.out.print(ele);
+			System.out.print(ele); 
 		}
 	}
 }
