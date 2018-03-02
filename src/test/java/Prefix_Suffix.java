@@ -3,6 +3,7 @@ public class Prefix_Suffix {
 
 	public static void main(String[] args) {
 		
+
 		String a = "sanbnckd";
 		int[] k=new int[256];
 		for(int i=0;i<=a.length()-1;i++) {
