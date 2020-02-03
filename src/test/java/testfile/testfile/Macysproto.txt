@@ -1,0 +1,392 @@
+{
+  "meta": {
+    "userId": "201312582",
+    "bagGuid": "e2c8e444-4a57-412b-ad8a-a8f3be14daf0",
+    "userRegistryId": "0",
+    "bagId": "112452090",
+    "context": {
+      "deviceType": "DESKTOP"
+    },
+    "analytics": {
+      "data": {
+        "freeShippingThresholdMet": true,
+        "freeShippingThreshold": "99.00",
+        "isBigTicket": [
+          "false",
+          "false",
+          "false",
+          "false",
+          "true"
+        ],
+        "orderSubTotal": 1425.99,
+        "orderTotalItems": "5",
+        "productRegistryFlag": [
+          "false",
+          "false",
+          "false",
+          "false",
+          "false"
+        ],
+        "productBopsAvailable": [
+          "false",
+          "false",
+          "false",
+          "false",
+          "false"
+        ],
+        "productColor": [
+          "Charcoal Spacedye",
+          "No Color",
+          "White Gold",
+          "No Color",
+          "Bennett Peacock"
+        ],
+        "productOriginalPrice": [
+          "29.5",
+          "126.0",
+          "2000.0",
+          "2.0",
+          "1099.0"
+        ],
+        "productPrice": [
+          "21.99",
+          "126.0",
+          "599.0",
+          "0.0",
+          "679.0"
+        ],
+        "productPwpFlag": [
+          "false",
+          "false",
+          "false",
+          "false",
+          "false"
+        ],
+        "productGwpFlag": [
+          "false",
+          "false",
+          "false",
+          "true",
+          "false"
+        ],
+        "productId": [
+          "3543051",
+          "6051788",
+          "2674203",
+          "772110",
+          "1878856"
+        ],
+        "productName": [
+          "Low-Impact Racerback Sports Bra, Created for Macy\u0027s",
+          "Cashmere Mist Essence Eau de Parfum Spray, 3.4-oz.",
+          "Diamond Three Stone Engagement Ring (3/4 ct. t.w.) in 14k Gold, White Gold or Rose Gold",
+          "Receive a Complimentary Cashmere Mist mini with a large spray purchase from the Donna Karan Cashmere Mist Essence fragrance collection",
+          "Keegan 90\" 2 Piece Fabric Sectional Sofa"
+        ],
+        "productQuantity": [
+          "1",
+          "1",
+          "1",
+          "1",
+          "1"
+        ],
+        "productRegistryNumber": [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "productSize": [
+          "XXL",
+          "",
+          "7",
+          "",
+          ""
+        ],
+        "productSubTotal": [
+          "21.99",
+          "126.0",
+          "599.0",
+          "0.0",
+          "679.0"
+        ],
+        "productUpc": [
+          "73614257092",
+          "22548398722",
+          "807995304614",
+          "22548264416",
+          "118505"
+        ],
+        "productCategoryId": [
+          "55799",
+          "30076",
+          "21176",
+          "30076",
+          "29391"
+        ],
+        "productFulfillmentMethod": [
+          "FREE STANDARD",
+          "FREE STANDARD",
+          "FREE STANDARD",
+          "FREE STANDARD",
+          "FREE STANDARD"
+        ],
+        "orderDiscount": "1828.51",
+        "productCategoryName": [
+          "BRA",
+          "FRAGRANCE",
+          "RING",
+          "FRAGRANCE",
+          "FURNITURE"
+        ]
+      },
+      "coreMetrics": {}
+    },
+    "killSwitches": {
+      "quickViewProsZoneEnabled": true,
+      "responsiveBagRewardsCardEnabled": true,
+      "isBigTicketCXLoyaltyEnabled": true,
+      "responsiveBagStarRewardsEnabled": true,
+      "responsiveBagLoyallistEnabled": false,
+      "responsiveBagNewOfferSectionEnabled": true,
+      "responsiveBagMmoneyEnabled": true,
+      "bigTicketV2CEnabled": true,
+      "bigTicketFeatureEnabled": true,
+      "checkoutOptiAutoRemovalEnabled": true,
+      "offersInBagPoolEnabled": true,
+      "prosZoneReDesignEnabled": true,
+      "bagPageMultiZoneCEnabled": true,
+      "paypalExpressCheckoutEnabled": true,
+      "responsiveBagProsEnabled": true
+    },
+    "messages": {
+      "error": [
+        "We\u0027re sorry. The highlighted item(s) in your Shopping Bag are currently unavailable. Please delete the item(s) to proceed."
+      ]
+    },
+    "deliveryZipCode": "94107",
+    "bagAttributes": {
+      "bagItemQuantity": 5
+    }
+  },
+  "sections": {
+    "summary": {
+      "meta": {
+        "title": "Summary"
+      },
+      "price": [
+        {
+          "label": "Shipping",
+          "values": [
+            {
+              "formattedValue": "FREE",
+              "type": "SHIPPING_CHARGES"
+            }
+          ]
+        },
+        {
+          "label": "Pre-Tax Order Total",
+          "values": [
+            {
+              "value": 1425.99,
+              "formattedValue": "$1425.99",
+              "type": "GRAND_TOTAL"
+            }
+          ]
+        },
+        {
+          "label": "Subtotal",
+          "values": [
+            {
+              "value": 1425.99,
+              "formattedValue": "$1,425.99",
+              "type": "SUM_SUB_TOTAL"
+            }
+          ]
+        },
+        {
+          "label": "You saved",
+          "values": [
+            {
+              "value": 1828.51,
+              "formattedValue": "$1828.51",
+              "type": "YOU_SAVED"
+            }
+          ]
+        }
+      ]
+    },
+    "bagItems": {
+      "meta": {
+        "title": "BagItems"
+      },
+      "items": [
+        {
+          "quantity": "1",
+          "upcId": "37130531",
+          "productId": "3543051",
+          "bagItemId": "6",
+          "flags": {
+            "pickUpFromStore": false,
+            "gwpIndicator": false,
+            "autoAddChoice": false,
+            "isGiftCard": false,
+            "storeAvailability": false,
+            "shippingAvailability": true,
+            "shipToStoreSelected": false,
+            "shipToStoreAvailability": false,
+            "isScannedItem": false,
+            "bigTicketV2CItem": false,
+            "pwpIndicator": false,
+            "bigTicketItem": false
+          },
+          "originalPrice": 29.5,
+          "shippingOptions": [
+            {
+              "message": "In Stock: Usually ships within 3 business days.",
+              "availabilityText": "In Stock:",
+              "deliveryText": "Usually ships within 3 business days.",
+              "name": "Ship it"
+            }
+          ],
+          "itemTotal": 21.99,
+          "itemTotalBeforeDiscount": 21.99,
+          "sequenceNumber": 6,
+          "product": {
+            "id": "3543051",
+            "upcId": "37130531",
+            "identifier": {
+              "productId": "3543051",
+              "upcId": "37130531",
+              "productUrl": "/shop/product/ideology-low-impact-racerback-sports-bra-created-for-macys?ID\u003d3543051"
+            },
+            "detail": {
+              "brand": "Ideology",
+              "maxQuantity": 12.0,
+              "defaultCategoryId": 55799.0,
+              "name": "Low-Impact Racerback Sports Bra, Created for Macy\u0027s"
+            },
+            "imagery": {
+              "urlTemplate": "http://slimages.macys.com/is/image/MCY/products/[IMAGEFILEPATH]?bgc\u003d255,255,255\u0026wid\u003d[WIDTH]\u0026qlt\u003d[QUALITY]\u0026layer\u003dcomp\u0026op_sharpen\u003d0\u0026resMode\u003dbicub\u0026op_usm\u003d0.7,1.0,0.5,0\u0026fmt\u003djpeg",
+              "primaryImage": {
+                "filePath": "6/optimized/8326625_fpx.tif"
+              }
+            },
+            "availability": {
+              "live": true,
+              "checkInStoreEligibility": true,
+              "available": true,
+              "orderType": "STR1",
+              "shipDays": 3.0,
+              "message": "In Stock: Usually ships within 3 business days.",
+              "active": true
+            },
+            "traits": {
+              "colors": [
+                "Charcoal Spacedye"
+              ],
+              "sizes": [
+                "XXL"
+              ]
+            }
+          },
+          "upcNumber": "73614257092",
+          "price": [
+            {
+              "label": "Reg.",
+              "values": [
+                {
+                  "value": 29.5,
+                  "formattedValue": "$29.50",
+                  "type": "REG"
+                }
+              ]
+            },
+            {
+              "label": "Sale",
+              "values": [
+                {
+                  "value": 21.99,
+                  "formattedValue": "$21.99",
+                  "type": "SALE"
+                }
+              ]
+            },
+            {
+              "label": "Subtotal",
+              "values": [
+                {
+                  "value": 21.99,
+                  "formattedValue": "$21.99",
+                  "type": "ITEM_SUB_TOTAL"
+                }
+              ]
+            },
+            {
+              "label": "Total",
+              "values": [
+                {
+                  "value": 21.99,
+                  "formattedValue": "$21.99",
+                  "type": "ITEM_TOTAL"
+                }
+              ]
+            }
+          ],
+          "productCategoryName": "BRA"
+        }
+      ]
+    },
+    "bopsHeader": {
+      "meta": {
+        "title": "BopsHeader"
+      },
+      "message": "Excludes furniture and mattresses"
+    },
+    "bagPromotions": {
+      "offer": {
+        "noEligibleOffers": [
+          {
+            "identifier": {
+              "code": "DOLLOFF19884271"
+            },
+            "promoDetails": {
+              "description": "cd Reg and iship Bundled GWP promo",
+              "effectiveDate": "07/29/18",
+              "expiration": "07/28/19",
+              "operationDesc": "Reg Iship Dollor Off Offer"
+            }
+          },
+          {
+            "identifier": {
+              "code": "FLATFEESHIPDIGI2"
+            },
+            "promoDetails": {
+              "description": "cd Reg and iship flat fee ship promo NG",
+              "effectiveDate": "07/29/18",
+              "expiration": "07/28/19",
+              "operationDesc": "Reg and iship flat fee ship promo NG"
+            }
+          }
+        ]
+      },
+      "meta": {
+        "title": "Promotions"
+      }
+    },
+    "shippingThreshold": {
+      "meta": {
+        "title": "FreeShipping"
+      },
+      "data": {
+        "freeShippingThresholdAmount": "$99.00"
+      }
+    },
+    "starRewardsDetails": {
+      "meta": {
+        "title": "StarRewards"
+      }
+    }
+  }
+}
